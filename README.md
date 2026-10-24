@@ -1,4 +1,4 @@
-# Alien Phobia: functional Pascal rebuild
+# Alien Phobia
 
 This is a functional Turbo Pascal decompilation of Alien Phobia, developed by Wah-Software in 1997 for MS-DOS.
 
