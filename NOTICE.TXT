@@ -1,0 +1,7 @@
+PROVENANCE AND LICENSING STATUS
+
+Original game: Alien Phobia v1.1, Wah-Software.
+Graphics, sound, FILE_ID.DIZ and initial scores are copied unchanged from
+the supplied game files. Pascal files are reconstructed functional source,
+not recovered original source. No license grant is asserted by this export.
+No LICENSE file has been invented. Compiler binaries are not included.
